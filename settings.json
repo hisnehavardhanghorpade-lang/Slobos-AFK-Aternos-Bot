@@ -6,7 +6,7 @@
     "type": "online"
   },
   "server": {
-    "ip": "AfterSchoolSmp-8B7w.aternos.me:20416",
+    "ip": "AfterSchoolSmp-8B7w.aternos.me",
     "port": 20416,
     "version": "1.21.11",
     "try-creative": false
