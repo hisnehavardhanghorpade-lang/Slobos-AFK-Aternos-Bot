@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "AfterSchoolSmp-8B7w.aternos.me:20416",
+    "port": 20416,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
